@@ -1,0 +1,12 @@
+MY SOFTWARE DEVELOPMENT JOURNEY
+
+This is my first Git and GIthub assignment.
+I am learning how to use version control to manage and track changes in my projects.
+
+So far i have learned how to:
+1.Initialize a git repository.
+2.Create files.
+3.Check the status of the files.
+4.Stage changes using git add.
+5.Save changes using git commit
+6.Connect a local repository to GitHub.
