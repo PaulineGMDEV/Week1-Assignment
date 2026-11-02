@@ -10,3 +10,4 @@ So far i have learned how to:
 4.Stage changes using git add.
 5.Save changes using git commit
 6.Connect a local repository to GitHub.
+7.So far so good.
